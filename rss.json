@@ -1,9 +1,10 @@
 {
-  games: [
-      {
-        title: "Forest Pals: Brain Puzzle",
-        url: undefined,
-        modifiedDate: "27.11.2026",
-        coverUrl: "https://dropit.pics/rdfemw4.png"
+  "games": [
+    {
+      "title": "Forest Pals: Brain Puzzle",
+      "url": "",
+      "modifiedDate": "27.11.2026",
+      "coverUrl": "https://dropit.pics/rdfemw4.png"
+    }
   ]
 }
